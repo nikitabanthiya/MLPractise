@@ -19,10 +19,9 @@ There are various ways to classify machine learning problems. Here, we discuss t
         High Dimension Visualization: Use the computer to help us visualize high dimension data.
         Generative Models: After a model captures the probability distribution of your input data, it will be able to generate more data. This can be very useful to make your classifier more robust.
 
-A simple diagram which clears the concept of supervised and unsupervised learning is shown below:
 
 
-As you can see clearly, the data in supervised learning is labelled, where as data in unsupervised learning is unlabelled.
+
 
     Semi-supervised learning: Problems where you have a large amount of input data and only some of the data is labeled, are called semi-supervised learning problems. These problems sit in between both supervised and unsupervised learning. For example, a photo archive where only some of the images are labeled, (e.g. dog, cat, person) and the majority are unlabeled.
 
@@ -44,8 +43,6 @@ An example of classification and regression on two different datasets is shown b
     Dimensionality reduction: It simplifies inputs by mapping them into a lower-dimensional space. Topic modeling is a related problem, where a program is given a list of human language documents and is tasked to find out which documents cover similar topics.
 
 On the basis of these machine learning tasks/problems, we have a number of algorithms which are used to accomplish these tasks. Some commonly used machine learning algorithms are Linear Regression, Logistic Regression, Decision Tree, SVM(Support vector machines), Naive Bayes, KNN(K nearest neighbors), K-Means, Random Forest, etc.
-
-Note: All these algorithms will be covered in upcoming articles.
 
 Terminologies of Machine Learning
 
